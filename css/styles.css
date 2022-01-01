@@ -1,9 +1,19 @@
 div{
   background-color: #FFF89A;
+  height: 200px;
+  width:200px;
 }
 
 h1, body{
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.Middle-Container{
+  background-color: Blue;
+}
+
+.Bottom-Container{
+  background-color: Green;
 }
