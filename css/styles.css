@@ -1,7 +1,6 @@
-div{
+.Top-Container{
   background-color: #FFF89A;
-  height: 200px;
-  width:200px;
+
 }
 
 h1, body{
@@ -12,8 +11,12 @@ h1, body{
 
 .Middle-Container{
   background-color: Blue;
+  height: 200px;
+  width:200px;
 }
 
 .Bottom-Container{
   background-color: Green;
+  height: 200px;
+  width:200px;
 }
