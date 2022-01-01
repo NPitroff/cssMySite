@@ -1,3 +1,9 @@
 div{
   background-color: #FFF89A;
 }
+
+h1, body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
