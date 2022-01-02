@@ -2,10 +2,12 @@
 
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
   margin-right: 0;
+  margin-top: 0;
 }
 
 .Top-Container{
@@ -27,4 +29,12 @@ h1 {
 
 .full{
   text-decoration: underline;
+}
+
+.top-cloud{
+  
+}
+
+.bottom-cloud{
+  position: absolute;
 }
