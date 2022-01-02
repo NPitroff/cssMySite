@@ -1,12 +1,16 @@
+
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-right: 0;
+}
+
 .Top-Container{
   background-color: #FFF89A;
 
-}
-
-h1, body{
-  margin-top: 0;
-  margin-left: 0;
-  margin-right: 0;
 }
 
 .Middle-Container{
