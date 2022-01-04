@@ -4,7 +4,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-size:200%;
+  /* font-size:200%; */
 }
 
 h1 {
@@ -40,6 +40,8 @@ padding-top: 100px;
 .skill-row{
   width:50%;
   margin: 6.25rem auto 6.25rem;
+  text-align: left;
+  line-height: 2;
 }
 
 .full{
@@ -62,4 +64,8 @@ padding-top: 100px;
 .javascript-skill{
   width:26rem;
   height:26rem;
+}
+
+.react-skill{
+  width:25%
 }
