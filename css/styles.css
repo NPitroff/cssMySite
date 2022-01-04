@@ -37,10 +37,9 @@ position:relative;
 padding-top: 100px;
 }
 
-.Middle-Container{
-}
-
-.Bottom-Container{
+.skill-row{
+  width:50%;
+  margin:auto;
 }
 
 .full{
@@ -58,4 +57,9 @@ padding-top: 100px;
   left:300px;
   bottom:300px;
 
+}
+
+.javascript-skill{
+  width:26rem;
+  height:26rem;
 }
