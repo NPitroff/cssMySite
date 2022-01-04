@@ -36,8 +36,16 @@ hr {
 }
 
 a {
-  color:#11999E;
+  color:#FFC900;
+  padding:.3125rem;
 }
+
+/* link styling */
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
 
 .Top-Container{
   background-color: #FFF89A;
@@ -104,7 +112,7 @@ padding-top: 100px;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
