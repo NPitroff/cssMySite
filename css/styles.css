@@ -20,6 +20,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
   font-weight: normal;
+  padding-bottom: .625rem;
 }
 
  h3 {
@@ -51,6 +52,10 @@ a:active { text-decoration: none; }
   background-color: #FFF89A;
 position:relative;
 padding-top: 100px;
+}
+
+.middle-container{
+  padding:6.25rem;
 }
 
 .bottom-container{
